@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ Fun fact: I am a noob/bot zuahahahaha
-- 📫 How to reach me: https://akanshu.tech/
+- 📫 About me: akanshu.tech
 
 <!--
 **akannshu/akannshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
