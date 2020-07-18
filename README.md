@@ -1,12 +1,12 @@
 ### Hi there 👋
-## - ⚡ Fun fact: I am a noob zuahahahaha
+## I am a noob zuahahahaha
 
 
 ![bot](https://user-images.githubusercontent.com/37223446/87755922-8f323980-c825-11ea-9cb8-8dfc924505c5.gif)
 
 
 
-##### - 📫 About me: www.akanshu.tech
+#### Connect with me: www.akanshu.tech
 
 <!--
 **akannshu/akannshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
