@@ -6,7 +6,7 @@
 
 
 
-#### Connect with me: www.akanshu.netlify.app
+#### Connect with me: https://akanshu.netlify.app
 
 <!--
 **akannshu/akannshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
